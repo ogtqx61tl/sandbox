@@ -1,14 +1,13 @@
-# Sandbox
+# sandbox
 
-Personal repo for experiments and quick tests.
+Personal workspace for experimenting with small snippets, scripts, and configs. Nothing serious lives here — just quick tests and throwaway ideas.
 
-## What's here
-- Small scripts and configs
-- Random notes and ideas
-- Things I'm trying out
+## Contents
+
+- Random JS/React snippets
+- Notes on things I'm trying out
+- Occasionally useful one-off scripts
 
 ## Usage
-Nothing formal — just poke around.
 
-## License
-MIT (unless noted otherwise).
+Clone and poke around. No guarantees, no structure, just sand.
